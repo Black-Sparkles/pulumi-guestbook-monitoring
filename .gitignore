@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Pulumi local state and backups
+.pulumi/
+*.pulumi.backup
+
+# Local credentials and environment files
+.env
+.env.*
+!.env.example
+
+# Private keys
+*.pem
+*.key
+
+# Local configuration containing secrets
+Pulumi.*.yaml
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
