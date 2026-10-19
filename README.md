@@ -90,7 +90,8 @@ The application had three frontend pods, one Redis leader pod and one Redis repl
 
 **Screenshot (optional): Kubernetes pods running**
 
-![Kubernetes pods running](screenshots/kubernetes-pods.png)
+![Kubernetes pods running](screenshots/kubernetes-pods(1).png)
+![Kubernetes pods running](screenshots/kubernetes-pods(2).png)
 
 I opened the Guestbook using port forwarding:
 
